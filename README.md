@@ -1,4 +1,4 @@
-# Prolog Logical Puzzle
+# Prolog Logic Puzzle
 In this repository, I solved a basic logical puzzle using SWISH and Prolog. The instructions for the puzzle are provided within the file itself as comments.
 
 ## Testing
